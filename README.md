@@ -12,8 +12,7 @@ starting position.
 
 LOADING THE GAME:
 =================
-To load the game locally, download/clone the [repository]
-(https://github.com/evaspaceman/frontend-nanodegree-arcade-game.git) and open index.html
+To load the game locally, download/clone the [repository](https://github.com/evaspaceman/frontend-nanodegree-arcade-game.git) and open index.html
 in browser. 
 
 For additional details on the game development, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
