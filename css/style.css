@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+.winModal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 350px;
+    height: 150px;
+    background: #8bf781;
+    border: 4px solid rgb(56, 114, 238);
+    border-radius: 10px;
+}
+
+.hidden {
+    display: none;
+} 
